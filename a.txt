@@ -1,1 +1,5 @@
 a.txt 
+
+enviando
+a funcionalidade
+x
